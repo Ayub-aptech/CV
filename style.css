@@ -1,0 +1,30 @@
+ *{
+    margin: 0px;
+    padding: 0px;
+ }
+ .hero {
+      background: #343a40;
+      color: white;
+      padding: 100px 0;
+      text-align: center;
+      scroll-behavior: smooth;
+    }
+    .project-card img {
+      height: 200px;
+      object-fit: cover;
+    }
+    h1{
+      font-family: 'Times New Roman', Times, serif;
+      font-weight: bolder;
+      text-decoration-line: underline;
+    }
+    h2{
+      font-weight: bolder;
+      font-style: italic;
+      font-family: 'Times New Roman', Times, serif;
+      text-decoration-line: underline;
+    }
+    p{
+      font-size: 20px;
+      font-family: 'Times New Roman', Times, serif;
+    }
